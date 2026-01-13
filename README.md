@@ -1,6 +1,7 @@
 # Backend Development Curriculum
 
-Khi code thì tạo branch theo kiểu `name-topic/name` chú ý đùng để mất code khi conflict :)).
+- Khi code thì tạo branch theo kiểu `name-topic/name` chú ý đùng để mất code khi conflict :)).
+- Code xong thì tạo pull request để review code nhé(Nhớ là chỉ chỉnh sửa folder của bản thân thôi)
 
 ## 📚 Phần I: CƠ BẢN
 
