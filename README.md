@@ -1,4 +1,6 @@
-# Backend Development Curriculum - Phiên bản cải tiến
+# Backend Development Curriculum
+
+Khi code thì tạo branch theo kiểu `name-topic/name` chú ý đùng để mất code khi conflict :)).
 
 ## 📚 Phần I: CƠ BẢN
 
